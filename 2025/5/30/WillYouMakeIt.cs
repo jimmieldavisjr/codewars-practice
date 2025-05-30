@@ -20,7 +20,7 @@ namespace Codewars._2025._5._30
          * The function should return true if the distance can be covered, false otherwise.
          */
 
-        public static bool ZeroFuel(uint distanceToPump, uint mpg, uint fuelLeft)
+        public static bool ZeroFuelA(uint distanceToPump, uint mpg, uint fuelLeft)
         {
             if (mpg * fuelLeft >= distanceToPump)
             {
@@ -32,6 +32,11 @@ namespace Codewars._2025._5._30
                 Console.WriteLine("False");
                 return false;
             }
+        }
+
+        public static bool ZeroFuelB(uint distanceToPump, uint mpg, uint fuelLeft)
+        {
+            return mpg * fuelLeft >= distanceToPump;
         }
     }
 }
