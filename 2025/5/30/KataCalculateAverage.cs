@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Codewars._2025._5._30
 {
-    internal class CalculateAverage
+    internal class KataCalculateAverage
     {
         /*
          * Problem Description:
-         * Write a function which calculates the average of the numbers in a given array.
          * 
+         * Write a function which calculates the average of the numbers in a given array.
          * Note: Empty arrays should return 0.
          */
 

@@ -8,7 +8,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Codewars._2025._5._30
 {
-    internal class WillYouMakeIt
+    internal class KataWillYouMakeIt
     {
         /*
          * Problem Description:

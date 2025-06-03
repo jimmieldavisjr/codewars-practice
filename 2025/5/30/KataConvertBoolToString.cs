@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Codewars._2025._5._30
 {
-    internal class ConvertBoolToString
+    internal class KataConvertBoolToString
     {
         /*
          * Problem Description:
+         * 
          * Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.
          */
 
