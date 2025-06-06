@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-internal class HeroSurive
+internal class KataHeroSurive
 {
     /*
      * Problem Description:

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-internal class FindMinMaxInt
+internal class KataFindMinMaxInt
 {
     /*
     * Problem Description:
