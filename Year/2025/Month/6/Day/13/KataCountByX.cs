@@ -1,5 +1,5 @@
 ﻿
-internal class CountByX
+internal class KataCountByX
 {
     /*
     * Problem Description:
