@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-internal class KataReverseWords
+internal class ReverseWords
 {
     /*
     * Problem Description:

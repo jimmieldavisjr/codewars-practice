@@ -1,5 +1,5 @@
 ﻿
-internal class KataConvertStringToNumber
+internal class ConvertStringToNumber
 {
 
     /*

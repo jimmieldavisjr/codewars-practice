@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-internal class KataConvertNumberToString
+internal class ConvertNumberToString
 {
     /*
      * Problem Description:

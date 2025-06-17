@@ -1,5 +1,5 @@
 ﻿
-internal class KataSquareSum
+internal class SquareSum
 {
     /*
      * Problem Description:

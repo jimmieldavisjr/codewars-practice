@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-internal class KataConvertBoolToString
+internal class ConvertBoolToString
 {
     /*
      * Problem Description:

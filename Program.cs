@@ -1,5 +1,2 @@
 ﻿
 
-// Call static class methods:
-
-

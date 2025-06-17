@@ -1,5 +1,5 @@
 ﻿
-internal class KataBinaryAddition
+internal class BinaryAddition
 {
     /*
     * Problem Description:

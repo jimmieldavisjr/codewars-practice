@@ -1,5 +1,5 @@
 ﻿
-internal class KataReduceButGrow
+internal class ReduceButGrow
 {
     /*
     * Problem Description:

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-internal class KataCalculatePages
+internal class CalculatePages
 {
     /*
      * Problem Description:

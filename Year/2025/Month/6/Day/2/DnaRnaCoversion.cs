@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-internal class KataDnaRnaCoversion
+internal class DnaRnaCoversion
 {
     /*
      * Problem Description:
