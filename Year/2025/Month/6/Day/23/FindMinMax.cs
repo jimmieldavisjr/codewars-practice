@@ -6,7 +6,7 @@ internal class FindMinMax
     * Write a function that returns both the minimum and maximum number of the given list/array.
     */
 
-    public static int[] minMax(int[] lst)
+    public static int[] MinMax(int[] lst)
     {
         int low = 0;
         int high = 0;
@@ -29,6 +29,6 @@ internal class FindMinMax
                 low = lst[i];
             }
         }
-        return new int[2] { low, high };
+        return new int[] { low, high };
     }
 }
