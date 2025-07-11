@@ -1,5 +1,6 @@
 ﻿/// <summary>
-/// Provides functionality to count the number of valid smiley face strings in an array based on allowed characters and format rules.
+/// Provides functionality to count the number of valid smiley face strings 
+/// in an array based on allowed characters and format rules.
 /// </summary>
 /// <remarks>
 /// Codewars Solution: "Count the Smiley Faces!" — 6 kyu.  

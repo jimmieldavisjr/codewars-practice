@@ -3,7 +3,8 @@
 /// </summary>
 /// <remarks>
 /// Codewars Solution: List Filtering — 7 kyu.  
-/// Problem: Create a function that takes a list containing non-negative integers and strings, and returns a new list with the strings removed.
+/// Problem: Create a function that takes a list containing non-negative 
+/// integers and strings, and returns a new list with the strings removed.
 /// </remarks>
 internal class ListFiltering
 {
