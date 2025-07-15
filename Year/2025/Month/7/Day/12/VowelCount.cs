@@ -1,20 +1,20 @@
 ﻿/// <summary>
-/// Provides functionality for counting total occurrences of vowels in a string.
+/// Counts the total number of vowels in the specified string.
 /// </summary>
-///
 /// <remarks>
-/// Codewars Challenge: Vowel Count — 7 kyu.  
+/// Codewars Challenge: Vowel Count — 7 kyu.
 /// 
 /// Problem: Return the number (count) of vowels in the given string.
+/// The vowels considered are: a, e, i, o, and u (lowercase only).
 /// </remarks>
 internal class VowelCount
 {
     /// <summary>
-    /// Counts the total occurrences of vowels in the input string value     
+    /// Calculates the total number of lowercase vowel characters in the input string.
     /// </summary>
-    /// <param name="n">The input string containing possible vowels.</param>
+    /// <param name="str">The string parameter to evaluate for vowel characters.</param>
     /// <returns>
-    /// The total count of vowels as int.
+    /// The total count of vowels as an integer.
     /// </returns>
     public static int GetVowelCount(string str)
     {
