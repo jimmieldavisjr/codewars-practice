@@ -10,8 +10,8 @@
 /// 
 /// Example: 
 /// 
-/// Input: "Dermatoglyphics" --> true
-/// Output: "aba" --> false
+/// Input: "Dermatoglyphics" --> Output: true
+/// Input: "aba" --> Output: false
 /// </remarks>
 internal class Isograms
 {
