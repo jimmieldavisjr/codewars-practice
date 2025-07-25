@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 internal class EvenOrOdd
 {
-    public static string EvenOrOdd(int number)
+    public static string EvenOrOddFunc(int number)
     {
         if (number % 2 == 0)
         {

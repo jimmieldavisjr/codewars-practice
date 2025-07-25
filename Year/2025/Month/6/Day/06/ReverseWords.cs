@@ -8,7 +8,7 @@ internal class ReverseWords
     * Keep spaces in String at the same location.
     */
 
-    public static string ReverseWords(string str)
+    public static string ReverseWordsFunc(string str)
     {
         var result = new StringBuilder();
         var word = new StringBuilder();
