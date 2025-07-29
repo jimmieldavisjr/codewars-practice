@@ -4,7 +4,7 @@ internal class DoubleChar
 {
     public class Kata
     {
-        public static string DoubleChar(string s)
+        public static string DoubleCharFunc(string s)
         {
             var result = new StringBuilder();
 
