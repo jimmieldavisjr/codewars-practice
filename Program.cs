@@ -1,1 +1,3 @@
-﻿ArrayMultiplicities.comp([121, 144, 19, 161, 19, 144, 19, 11], [121, 14641, 20736, 361, 25921, 361, 20736, 361]);
+﻿using Codewars.Year._2025.Month._8.Day._25.TwoSum.csharp;
+
+Kata.TwoSum([1,2,3], 4);
