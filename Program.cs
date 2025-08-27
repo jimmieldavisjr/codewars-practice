@@ -1,3 +1,3 @@
-﻿using Codewars.Year._2025.Month._8.Day._25.TwoSum.csharp;
+﻿using Codewars.Year._2025.Month._8.Day._26.SquareEveryDigit.csharp;
 
-Kata.TwoSum([1,2,3], 4);
+Kata.SquareDigits(9119);
